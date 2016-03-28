@@ -8,7 +8,7 @@ const GoEventEmitter = require("./goEventEmitter");
 
 const goEventEmitter = new GoEventEmitter();
 
-const modName = "crimsonassault";
+const modName = "dududu";
 
 const app = express();
 const server = http.createServer(app);
