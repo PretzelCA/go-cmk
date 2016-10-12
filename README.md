@@ -4,7 +4,7 @@ _This is a work in progress. A developer preview. Pre-alpha._
 
 CMK is a Node.JS service that can interact with CSGO Gamestate Integration (the thing eSports events use for big displays). The service also exposes a Socket.IO client for web browsers, which will play the actual clips.
 
-Only one module can be loaded at a time, but it can wire up as much custom stuff as needed. `crimsonharvest` contains a subset of the great Crimson Harvest kit, as an example.
+Only one module can be loaded at a time, but it can wire up as much custom stuff as needed. `crimsonassault` contains a subset of the great Crimson Assault kit, as an example.
 
 ## How to install
 
